@@ -59,7 +59,7 @@
 
 <div align="center">
   <a href="mailto:aleksicisidora@yahoo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
   </a>
   <a href="https://www.linkedin.com/in/isidora-aleksi%C4%87-a77628352/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
